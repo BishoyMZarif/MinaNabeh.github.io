@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>سيرة ذاتية - مينا نبيه</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-image: url('https://your-image-link.jpg'); /* استبدل هذا الرابط برابط الصورة */
+            background-size: cover; /* لجعل الصورة تغطي الصفحة بالكامل */
+            background-position: center; /* لتمركز الصورة */
+            background-attachment: fixed; /* لجعل الخلفية ثابتة أثناء التمرير */
+            color: #fff; /* لتغيير لون النص إلى الأبيض حتى يكون مرئيًا على الخلفية */
+        }
+        h1 {
+            text-align: center;
+        }
+        h2 {
+            color: #fff; /* لون النص */
+        }
+        p, li {
+            line-height: 1.6;
+        }
+        .section {
+            margin-bottom: 20px;
+            background-color: rgba(0, 0, 0, 0.5); /* لون خلفية خفيف للنص ليكون أكثر وضوحًا */
+            padding: 15px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>مينا نبيه</h1>
+    <p>الأقصر، مصر | +201221176764 | mina.nabeh.milad777@gmail.com</p>
+    
+    <div class="section">
+        <h2>ملخص احترافي</h2>
+        <p>إنجازات مميزة في شركة ميرك، متخصص في صرف الأدوية وبناء علاقات قوية. حققت باستمرار أهداف المبيعات، وأظهرت مهارات تفاوض وإرشاد متميزة، مما يعزز قاعدة العملاء والربحية.</p>
+    </div>
+
+    <div class="section">
+        <h2>المهارات</h2>
+        <ul>
+            <li>تخزين الأرفف</li>
+            <li>إعادة تخزين المنتجات</li>
+            <li>صرف الأدوية</li>
+            <li>الإجابة على أسئلة العملاء</li>
+            <li>إعادة تخزين الإمدادات</li>
+            <li>إرشاد المرضى</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>الخبرة العملية</h2>
+        <h3>مساعد صيدلي، صيدلية د. مينا مرقص - الأقصر</h3>
+        <p>03/2021 إلى الآن</p>
+        <ul>
+            <li>الحفاظ على نظافة وترتيب مكان الصيدلية.</li>
+            <li>مساعدة العملاء والإجابة عن استفساراتهم.</li>
+        </ul>
+
+        <h3>مندوب مبيعات طبية، شركة ميرك - الأقصر</h3>
+        <p>10/2016 إلى 10/2020</p>
+        <ul>
+            <li>زيادة الإيرادات من خلال بناء علاقات قوية مع العملاء.</li>
+            <li>تحقيق أهداف المبيعات بشكل مستمر.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>التعليم</h2>
+        <p>بكالوريوس في الصيدلة الإكلينيكية، جامعة أسيوط (09/2015)</p>
+    </div>
+
+    <div class="section">
+        <h2>اللغات</h2>
+        <p>العربية: اللغة الأم | الإنجليزية: متوسط (B2)</p>
+    </div>
+</body>
+</html>
